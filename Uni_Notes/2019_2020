@@ -1,0 +1,17 @@
+# Neural Text Summarization
+
+* Generating Wikipedia by Summarizing Long Sequences [[pdf]](https://openreview.net/pdf?id=Hyg0vbWC-)
+* Using Local Knowledge Graph Construction to Scale Seq2Seq Models to Multi-Document Inputs [[pdf]] (https://arxiv.org/pdf/1910.08435.pdf)
+  Lacks human evaluation and an analysis of the results.
+  
+  
+# Recent Advances in Seq2Seq
+* Cold Fusion: Training Seq2Seq Models Together with Language Models [[pdf]](https://arxiv.org/pdf/1708.06426.pdf) 
+  Interesting approach, unfortunately no code provided.
+
+# Validity, Reliability, and Confirmation: Elementary Empirical Methods for NLP
+
+* Better Hypothesis Testing for Statistical Machine Translation: Controlling for Optimizer Instability [[pdf]](https://www.cl.uni-heidelberg.de/courses/ss20/empiricalm/material/ClarkETAL11.pdf)
+  Nice paper with an important concern, [code](https://github.com/jhclark/multeval) and video is provided. Confusion about p-values.
+  
+  

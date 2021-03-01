@@ -1,0 +1,7 @@
+# Meaning Representations
+
+* AMR Parsing via Graph-Sequence Iterative Inference [[pdf]](https://arxiv.org/pdf/2004.05572.pdf)
+  Maintained and nicely written code provided. Unfortunately, there is an error in section 4.1
+
+
+
